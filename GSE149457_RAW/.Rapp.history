@@ -1,0 +1,23 @@
+install.packages("devtools")
+library(devtools)
+library(devtools)#
+#
+install_github("satijalab/seurat", ref = REF)
+install_github("satijalab/seurat", ref = 3bd092a)
+install_github("satijalab/seurat", ref = "3bd092a")
+install.packages('Seurat')
+library(Seurat)
+system('defaults write org.R-project.R force.LANG en_US.UTF-8')
+install.packages('Seurat')
+library(Seurat)
+library(Seurat)
+library(hdf5r)
+install.packages(hdf5r)
+install.packages("hdf5r")
+setwd("/Users/shivamkant/Desktop/CS690A/Project/GSE149457_RAW")
+filename <- "GSM4502475_chicken_heart_scRNAseq_D4_filtered_feature_bc_matrix"
+data_chicken_D4 <- Read10X_h5(filename = filename)
+install.packages("hdf5r")
+Seurat
+seurat
+library(Seurat)
